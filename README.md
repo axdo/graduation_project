@@ -4,6 +4,7 @@ some graduation_project
 This project named Cuotiguanli.rar.  
 db_management_system.sql is database file of mysql. Please use navicat loads.  
 1.xls is a sample of setting questions with group.  
+MistakeManagementSysER.pptx include all E-R charts.  
 This project should be imported in eclipse.  
 It has 3 uses:student,teacher and admin. They all can login.  
 The admin can add students and teachers, delete them and check questions.  
